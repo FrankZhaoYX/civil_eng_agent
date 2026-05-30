@@ -1,0 +1,13 @@
+sources:
+  - category: Land Development
+    subcategory: Construction Design Guidelines and Standards
+    url: https://www.york.ca/business/economic-and-development-services/land-development/construction-design-guidelines-and
+
+  - category: Land Development
+    subcategory: Development Engineering Review
+    url: https://www.york.ca/business/economic-and-development-services/land-development/development-engineering-review
+
+  # Future entries — add by editing this file and re-running the scraper.
+  # - category: Transportation
+  #   subcategory: Access Guidelines
+  #   url: https://www.york.ca/...

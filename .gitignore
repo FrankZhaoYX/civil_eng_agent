@@ -1,4 +1,13 @@
 dataset/
+data/
 __pycache__/
 .DS_Store
 *.pyc
+*.pyo
+.venv/
+.uv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.ruff_cache/
